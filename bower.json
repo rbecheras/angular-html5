@@ -1,0 +1,22 @@
+{
+  "name": "sirap-ngmod-html5",
+  "version": "1.0.0",
+  "authors": [
+    "Remi Becheras <rbecheras@sirap.fr>"
+  ],
+  "description": "Module 'sirap-html5' de dépendance des clients javascript Tereo",
+  "license": "Copyright SIRAP SAS Tous droits réservés",
+  "homepage": "http://tereo.sirap.fr",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.28",
+    "exifreader": "*"
+  }
+}

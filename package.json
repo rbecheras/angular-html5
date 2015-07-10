@@ -1,0 +1,18 @@
+{
+  "name": "sirap-ngmod-html5",
+  "version": "1.0.0",
+  "description": "Module 'sirap-html5' de dépendance des clients javascript Tereo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rbecheras@sirap.fr",
+  "license": "Copyright SIRAP SAS Tous droits réservés",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "load-grunt-tasks": "~3.0.0",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-bump": "0.0.17",
+    "grunt-contrib-jshint": "~0.11.0",
+    "grunt-svn-tag": "~0.7.1"
+  }
+}
