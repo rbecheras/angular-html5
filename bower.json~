@@ -6,7 +6,7 @@
   ],
   "description": "Module 'sirap-html5' de dépendance des clients javascript",
   "license": "Copyright SIRAP SAS Tous droits réservés",
-  "homepage": "http://gitlab.sirap.fr/SWAP/angular-html5",
+  "homepage": "http://gitlab.sirap.fr/sirap-sas/angular-html5",
   "ignore": [
     "**/.*",
     "node_modules",
