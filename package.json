@@ -1,6 +1,6 @@
 {
   "name": "sirap-angular-html5",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Module 'sirap-html5' de dépendance des clients javascript",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
